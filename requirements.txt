@@ -1,9 +1,0 @@
-streamlit
-scikit-learn
-imbalanced-learn
-matplotlib
-pandas
-numpy
-tensorflow
-deap
-scikit-optimize
