@@ -6,6 +6,6 @@ matplotlib
 imbalanced-learn
 optuna
 joblib
-tensorflow
+tensorflow-cpu
 deap
 scikit-optimize
